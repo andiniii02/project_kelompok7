@@ -866,7 +866,7 @@ glPopMatrix();
 glutSwapBuffers();
 }
 
-/*Tes menambahkan komentar Gamma*/
+/*E1E119017_Gamma Arifzha*/
 void reshape(int w,int h)
 {
 glViewport(0,0,(GLsizei)w,(GLsizei)h);
