@@ -1037,7 +1037,7 @@ n=(n-7)%360;N=(N-1)%360;
 glutPostRedisplay();
 }
 }
-
+/*bissmillah nilai A++*/
 /*andini*/
 int main(int argc,char **argv)
 {
