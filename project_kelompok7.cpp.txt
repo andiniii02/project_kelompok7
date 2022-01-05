@@ -1038,7 +1038,9 @@ glutPostRedisplay();
 }
 }
 
+
 /*andini septiani*/
+/*bissmillah nilai A++ :)*/
 int main(int argc,char **argv)
 {
 glutInit(&argc,argv);
